@@ -1,0 +1,18 @@
+*{
+    font-family: 'Inter', sans-serif;
+}
+td{
+    width: auto;
+    height: auto;
+    padding: 30px;
+    text-align: center;
+
+}
+td img{
+    max-height: 100px;
+    max-width: 100px;
+}
+.cabecalho td {
+    font-weight: 800;
+    border-bottom: solid 2px yellow;
+}
